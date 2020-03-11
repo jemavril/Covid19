@@ -1,8 +1,8 @@
 ## Welcome to Jem's Page 
 
-Here you can see the contents 
-a.Current covid 19 status in india
-b.Ways to prevent it.
+Here you can see the contents </br>
+a.Current covid 19 status in india </br>
+b.Ways to prevent it.<br>
 c.mandatory kit, what it shoould contain
 
 [Current covid19 status in India]
