@@ -19,7 +19,7 @@ The new virus, officially called Covid-19, is also dangerous - s far, around 20 
                 <li>If you are sick, stay at home, and eat and sleep separately from your family, use different utensils and cutlery to eat;If you develop shortness of breath, call your doctor and seek care immediately;
                   <li>It’s normal and understandable to feel anxious, especially if you live in a country that has been affected. Find out what you can do in your community. Discuss how to stay safe in your workplace, school or place of worship. 
                     <p>in case of emergency click on the following link<a href="">
-  </p>
+  
 
 <img  src="https://www.who.int/southeastasia/news/detail/04-03-2020-who-emphasizes-on-agile-response-capacities-as-south-east-asia-region-confirms-more-covid-19-cases"  alt="covid"  /> 
 <img style = "width: 80%; height: 80%; float: right; margin: 2px 0 10px 20px; ; " src="https://www.who.int/southeastasia/news/detail/04-03-2020-who-emphasizes-on-agile-response-capacities-as-south-east-asia-region-confirms-more-covid-19-cases"  alt="covid"  /> 
