@@ -29,3 +29,4 @@ The new virus, officially called Covid-19, is also dangerous - s far, around 20 
      <p>Initial symptoms include fever, dry cough, tiredness and a general feeling of being unwell. For a full read-out of the symptoms and treatment of coronavirus
   </p><a href="https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-symptoms-covid-19-cough-breathe-quickly/">
   
+<a title="Coronavirus symptoms: what to do if you think you're infected" href="https://www.telegraph.co.uk/news/2020/03/12/what-coronavirus-covid-19-start-grow-peak/">link for "Coronavirus symptoms: what to do if you think you're infected"</a> 
