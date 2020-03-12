@@ -9,7 +9,7 @@ Two other coronaviruses – Middle East respiratory syndrome (Mers) and severe a
 The new virus, officially called Covid-19, is also dangerous - s far, around 20 per cent of confirmed cases have been classed as severe or critical. So far, around 15 to 20 per cent of hospital cases have been classed as "severe" and the current death rate varies between 0.7 per cent and 3.4 per cent depending on the location and, crucially, access to good hospital care.
   </p>
   
-  <h2>How did the outbreak start?</h2>
+  <h1>How did the outbreak start?</h1>
      <p>The source of the coronavirus is believed to be a "wet market" in Wuhan which sold both dead and live animals including fish and birds. 
   </p>
   <p>
