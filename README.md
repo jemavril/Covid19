@@ -21,7 +21,7 @@ The new virus, officially called Covid-19, is also dangerous - s far, around 20 
 Bats are host to a wide range of zoonotic viruses including Ebola, HIV and rabies.
   </p>
   
-<p> <span style="text-decoration: underline;"><h1>Here are 10 things you can do to prevent COVID-19:</h1>
+<p><h1>Here are 10 things you can do to prevent COVID-19:</h1>
   <li>Clean your hands regularly – wash with soap and water, or clean with alcohol-based hand rub 
     <li>Clean surfaces regularly with disinfectant – for example kitchen benches and work desks;
       <li>Educate yourself about COVID-19. Make sure your information comes from reliable sources;
