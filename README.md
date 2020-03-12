@@ -36,7 +36,7 @@ Bats are host to a wide range of zoonotic viruses including Ebola, HIV and rabie
 
 <img  src="https://www.who.int/southeastasia/news/detail/04-03-2020-who-emphasizes-on-agile-response-capacities-as-south-east-asia-region-confirms-more-covid-19-cases"  alt="covid"  /> 
 <img style = "width: 80%; height: 80%; float: right; margin: 2px 0 10px 20px; ; " src="https://www.who.int/southeastasia/news/detail/04-03-2020-who-emphasizes-on-agile-response-capacities-as-south-east-asia-region-confirms-more-covid-19-cases"  alt="covid"  /> 
-<a> title="health emergencies and disasters" href="https://www.who.int/southeastasia/outbreaks-and-emergencies" target="_blank">link</a> 
+<a> title="health emergencies and disasters" href="https://www.who.int/southeastasia/outbreaks-and-emergencies" >link</a> 
 
 <h2>What are the symptoms of coronavirus?</h2>
      <p>Initial symptoms include fever, dry cough, tiredness and a general feeling of being unwell. For a full read-out of the symptoms and treatment of coronavirus
