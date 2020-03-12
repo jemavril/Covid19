@@ -1,55 +1,26 @@
-## Welcome to Jem's Page 
+<!-- This is a comment in the source -->
+<h3><em>Covid19<span style="background-color: #914c53; color: #ffffff; padding: 0 3px;"> and its prevention</span></h3>
+<p><strong>As we know day by day the virus is spreading either to another person, another country - due to lack of resources and knowledge people dont know how to react.So below are the details such as what is covid19, speculation regarding the theory, prevention</strong></p>
+  <h2>What is coronavirus??? </h2>
+  <p>Coronaviruses are a family of viruses that cause disease in animals. Seven, including the new virus, have made the jump to humans, but most just cause cold-like symptoms.</p>
+<p>
+Two other coronaviruses – Middle East respiratory syndrome (Mers) and severe acute respiratory syndrome (Sars) – are much more severe, having killed more than 1,500 people between them since 2002.</p>
+<p>
+The new virus, officially called Covid-19, is also dangerous - s far, around 20 per cent of confirmed cases have been classed as severe or critical. So far, around 15 to 20 per cent of hospital cases have been classed as "severe" and the current death rate varies between 0.7 per cent and 3.4 per cent depending on the location and, crucially, access to good hospital care.
+  </p>
+<p>Here are 10 things you can do to prevent COVID-19:
+  <li>Clean your hands regularly – wash with soap and water, or clean with alcohol-based hand rub 
+    <li>Clean surfaces regularly with disinfectant – for example kitchen benches and work desks;
+      <li>Educate yourself about COVID-19. Make sure your information comes from reliable sources;
+        <li>Avoid traveling if you have a fever or cough, and if you become sick while on a flight, inform the crew immediately. Once you get to your destination, make contact with a health professional and tell them about where you have been;
+          <li>Cough or sneeze into your sleeve. If using a tissue, dispose of the tissue immediately into a closed rubbish bin, and then clean your hands;
+            <li>Take extra precautions to avoid crowded areas if you are over 60 years old, or if you have an underlying condition;
+              <li>If you feel unwell, stay at home and call your doctor or local health professional;
+                <li>If you are sick, stay at home, and eat and sleep separately from your family, use different utensils and cutlery to eat;If you develop shortness of breath, call your doctor and seek care immediately;
+                  <li>It’s normal and understandable to feel anxious, especially if you live in a country that has been affected. Find out what you can do in your community. Discuss how to stay safe in your workplace, school or place of worship. 
+                    <p>in case of emergency click on the following link<a href="">
+  </p>
 
-Here you can see the contents. <br>
-a.Current covid 19 status in india <br>
-b.Ways to prevent it. <br>
-c.mandatory kit, what it shoould contain
-
-[Current covid19 status in India] <br>
-COVID-19 count reaches 43 in India; 3 cases reported on Monday. <br>
-New Delhi: With three new cases confirmed on Monday in Delhi, Uttar Pradesh and Kerala the number of coronavirus cases have risen up to 43 in India.<br>
-Four new cases of COVID-19 have been reported since Sunday. This includes one from Ernakulam in Kerala, one from Delhi, one from Uttar Pradesh, and so on... <br>
-As we know the spread of the virus is increasing day by day, but what can be done inorder to bring it to control??? As we have heard the famous quote "Prevention is better than cure"... would be the best suggestion that would be practical.<br>
-
-[b.Ways to prevent it from becoming a prey to the virus]<br>
-In a public place like subway/metro, see to that you try to avoid touching  your eyes , nose and mouth as much as possible.
-Wash your hands frequently.<br>
-Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.<br>
-Why? Washing your hands with soap and water or using alcohol-based hand rub kills viruses that may be on your hands.<br>
-Maintain social distancing<br>
-Maintain at least 1 metre (3 feet) distance between yourself and anyone who is coughing or sneezing.<br>
-Why? When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease.<br>
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jemavril/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img  src="https://www.who.int/southeastasia/news/detail/04-03-2020-who-emphasizes-on-agile-response-capacities-as-south-east-asia-region-confirms-more-covid-19-cases"  alt="covid"  /> 
+<img style = "width: 80%; height: 80%; float: right; margin: 2px 0 10px 20px; ; " src="https://www.who.int/southeastasia/news/detail/04-03-2020-who-emphasizes-on-agile-response-capacities-as-south-east-asia-region-confirms-more-covid-19-cases"  alt="covid"  /> 
+<a title="health emergencies and disasters" href="https://www.who.int/southeastasia/outbreaks-and-emergencies" target="_blank">link</a> 
