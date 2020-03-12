@@ -44,3 +44,20 @@ Bats are host to a wide range of zoonotic viruses including Ebola, HIV and rabie
   
 <a title="Coronavirus symptoms: what to do if you think you're infected" href="https://www.telegraph.co.uk/news/2020/03/12/what-coronavirus-covid-19-start-grow-peak/">link for "Coronavirus symptoms: what to do if you think you're infected"</a> 
 
+<h1>Is there a cure for the coronavirus?</h1>
+<p>There is no specific treatment, although doctors are trialling existing drugs for viruses such as Ebola and HIV. Early results seem promising but, until full clinical trials have been concluded, doctors cannot be certain that the drugs are effective. 
+
+Work to develop a vaccine is accelerating, but this work has been complicated by the virus mutating into a second strain.</p>
+
+<h1>How is coronavirus spread?</h1>
+<p>Like cold and flu bugs, the virus is spread via droplets when a person coughs or sneezes. The droplets land on surfaces and are picked up on the hands of others and spread further. People catch the virus when they touch their infected hands to their mouth, nose or eyes.</p>
+<p>It follows that the single most important thing you can do to protect yourself is keep your hands clean by washing them frequently with soap and water or a hand sanitising gel.</p>
+
+<h1>How to protect yourself??</h1>
+<p>For people who might have coronavirus, health officials are urging a “catch it, bin it, kill it” approach. In short, this means means catching sneezes and coughs in tissues, throwing them away, and then washing your hands.</p>
+<p>Regular hand washing is considered the most important precaution to reduce the chances of contamination from the virus lingering on surfaces.</p>
+<h1>Is the coronavirus airborne?</h1>
+<p>There is some debate about whether the disease is airborne – there is no evidence for it yet, but that could change. Airborne viruses linger for a longer period of time than those spread by droplets and can also be spread in air conditioning and ventilation systems. </p>
+<p>
+The current advice is that the disease can only be spread between close contacts – defined as spending more than 15 minutes within two metres of an infected person.</p>
+
