@@ -31,12 +31,11 @@ Bats are host to a wide range of zoonotic viruses including Ebola, HIV and rabie
               <li>If you feel unwell, stay at home and call your doctor or local health professional;
                 <li>If you are sick, stay at home, and eat and sleep separately from your family, use different utensils and cutlery to eat;If you develop shortness of breath, call your doctor and seek care immediately;
                   <li>It’s normal and understandable to feel anxious, especially if you live in a country that has been affected. Find out what you can do in your community. Discuss how to stay safe in your workplace, school or place of worship. 
-                    <p>in case of emergency click on the following link<a href="">
+                    
   
 
 <img  src="https://www.who.int/southeastasia/news/detail/04-03-2020-who-emphasizes-on-agile-response-capacities-as-south-east-asia-region-confirms-more-covid-19-cases"  alt="covid"  /> 
 <img style = "width: 80%; height: 80%; float: right; margin: 2px 0 10px 20px; ; " src="https://www.who.int/southeastasia/news/detail/04-03-2020-who-emphasizes-on-agile-response-capacities-as-south-east-asia-region-confirms-more-covid-19-cases"  alt="covid"  /> 
-<a> title="health emergencies and disasters" href="https://www.who.int/southeastasia/outbreaks-and-emergencies" >link</a> 
 
 <h2>What are the symptoms of coronavirus?</h2>
      <p>Initial symptoms include fever, dry cough, tiredness and a general feeling of being unwell. For a full read-out of the symptoms and treatment of coronavirus
