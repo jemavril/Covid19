@@ -8,6 +8,19 @@ Two other coronaviruses – Middle East respiratory syndrome (Mers) and severe a
 <p>
 The new virus, officially called Covid-19, is also dangerous - s far, around 20 per cent of confirmed cases have been classed as severe or critical. So far, around 15 to 20 per cent of hospital cases have been classed as "severe" and the current death rate varies between 0.7 per cent and 3.4 per cent depending on the location and, crucially, access to good hospital care.
   </p>
+  
+  <h2>How did the outbreak start?</h2>
+     <p>The source of the coronavirus is believed to be a "wet market" in Wuhan which sold both dead and live animals including fish and birds. 
+  </p>
+  <p>
+    Such markets pose a heightened risk of viruses jumping from animals to humans because hygiene standards are difficult to maintain if live animals are being kept and butchered on site. Typically, they are also densely packed.
+  </p>
+  <p>
+    The animal source of the latest outbreak has not yet been identified, but the original host is thought to be bats. Bats were not sold at the Wuhan market but may have infected live chickens or other animals sold there. </p>
+<p>
+Bats are host to a wide range of zoonotic viruses including Ebola, HIV and rabies.
+  </p>
+  
 <p>Here are 10 things you can do to prevent COVID-19:
   <li>Clean your hands regularly – wash with soap and water, or clean with alcohol-based hand rub 
     <li>Clean surfaces regularly with disinfectant – for example kitchen benches and work desks;
@@ -30,3 +43,4 @@ The new virus, officially called Covid-19, is also dangerous - s far, around 20 
   </p><a href="https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-symptoms-covid-19-cough-breathe-quickly/">
   
 <a title="Coronavirus symptoms: what to do if you think you're infected" href="https://www.telegraph.co.uk/news/2020/03/12/what-coronavirus-covid-19-start-grow-peak/">link for "Coronavirus symptoms: what to do if you think you're infected"</a> 
+
