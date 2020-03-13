@@ -56,4 +56,4 @@ Work to develop a vaccine is accelerating, but this work has been complicated by
 <p>There is some debate about whether the disease is airborne – there is no evidence for it yet, but that could change. Airborne viruses linger for a longer period of time than those spread by droplets and can also be spread in air conditioning and ventilation systems. </p>
 <p>
 The current advice is that the disease can only be spread between close contacts – defined as spending more than 15 minutes within two metres of an infected person.</p>
-
+<p>for more information regarding number of deaths and confirmed cases in the atacked contries visit:- https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/newpage_00032.html </p>
